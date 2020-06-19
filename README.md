@@ -10,6 +10,8 @@
 - [N1刷Armbian系统并在Docker中安装OpenWrt旁路由的详细教程](https://www.right.com.cn/forum/thread-1347921-1-1.html)
 - [N1盒子做旁路由刷OpenWRT系统（小白专用）](https://www.cnblogs.com/neobuddy/p/n1-setup.html)
 - [Docker上运行Lean大源码编译的OpenWRT（初稿）](https://openwrt.club/93.html)
+- [engineerlzk 的CSDN博客](https://me.csdn.net/engineerlzk)
+
 
 刷机
 -------------
