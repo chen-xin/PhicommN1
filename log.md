@@ -64,3 +64,11 @@ and it said "Warning: a reboot is needed to finish resizing the filesystem". Aft
 solution:
 redo the create boot and root fs, and copy boot and root files
 procedure as install.sh. The simple way would be delete lines before "Start copy system for eMMC", and set variables ${DEV_EMMC}, then run the halved script.
+
+
+running scripts
+====================
+
+```
+docker run --cap-add=NET_ADMIN ...
+```
